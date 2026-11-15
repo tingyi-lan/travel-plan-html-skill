@@ -1,0 +1,7 @@
+interface:
+  display_name: "Travel Plan HTML"
+  short_description: "研究驱动的旅行攻略、出片指南、文旅方案与可部署本地优先旅行 Web App"
+  default_prompt: "Use $travel-plan-html to help with my travel request, verify relevant current facts, and deliver only the itinerary, photo/content plan, proposal, recap, or website/app that I ask for."
+
+policy:
+  allow_implicit_invocation: true

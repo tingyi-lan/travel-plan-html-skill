@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+
+# Generated travel projects
+travel-plan/
+travel-plan-beijing-test/
+
+# Local working notes and temporary files
+/HANDOFF.md
+/codex_travel_skill_ui_final_spec.md
+/tmp/
